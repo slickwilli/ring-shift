@@ -1,4 +1,4 @@
-# Python Matrix Solver Project
+# Python Matrix Solver Project (Ring-Shift)
 
 This project contains a Python script (`main.py`) that attempts to solve a specific matrix problem:
 Given a matrix of numbers (read from `matrix.txt`), can each row be circularly shifted (left or right) such that every column in the resulting matrix sums to 100?
