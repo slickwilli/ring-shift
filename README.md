@@ -55,3 +55,18 @@ Given a matrix of numbers (read from `matrix.txt`), can each row be circularly s
     python3 main.py
     ```
     The script will read `matrix.txt` and attempt to find a solution.
+
+    ```bash
+    Trying 46656 possible shift combinations...
+    Checked 5000/46656 combinations...
+
+    Solution found!
+    Shifts applied (0-indexed, right shifts for each row): (0, 4, 0, 1, 5, 2)
+    Resulting matrix:
+    [22, 31, 3, 9, 15, 20]
+    [14, 23, 7, 27, 17, 12]
+    [32, 0, 11, 16, 28, 13]
+    [26, 8, 21, 19, 24, 2]
+    [5, 34, 33, 0, 10, 18]
+    [1, 4, 25, 29, 6, 35]
+    ```
